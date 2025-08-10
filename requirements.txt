@@ -1,0 +1,6 @@
+tensorflow==2.19.0
+numpy>=1.26.0,<2.2.0
+matplotlib==3.8.0
+opencv-python==4.8.0.74
+flask==2.3.2
+streamlit
