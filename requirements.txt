@@ -4,3 +4,5 @@ matplotlib==3.8.0
 opencv-python==4.8.0.74
 flask==2.3.2
 streamlit
+gdown
+pillow
